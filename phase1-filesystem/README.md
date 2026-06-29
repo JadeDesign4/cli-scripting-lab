@@ -26,7 +26,7 @@ Before running commands blindly, you need to know how to read the manual.
 
 ## 🛠️ Today's Lab Exercise
 
-### Part A: The Bash Way (If you are on Linux/macOS)
+### Part A: The Bash Way (On Linux/macOS)
 
 ```bash
 # 1. Verify you are in the right spot
@@ -44,7 +44,7 @@ man ls # (Press 'q' to exit the man page)
 
 ```
 
-### Part B: The PowerShell Way (If you are on Windows)
+### Part B: The PowerShell Way (On Windows)
 
 ```powershell
 # 1. Verify your location
