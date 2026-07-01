@@ -1,0 +1,11 @@
+These key combinations work out-of-the-box in almost all standard Linux shells (Bash/Zsh) and can save massive amounts of time.
+
+Ctrl + A: Jump straight to the start of the line.
+
+Ctrl + E: Jump straight to the end of the line.
+
+Ctrl + W: Erase the word directly behind your cursor.
+
+Ctrl + U: Clear the entire line before your cursor (great for clearing mistyped passwords).
+
+Ctrl + R: Reverse Search. Type this, then start typing a word from a command you ran 3 days ago. The shell will search your history and pull it up automatically.
